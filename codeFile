@@ -1,3 +1,7 @@
 example code file
-Master Edit: this lines changes user1Branch current (changed this line)
+<<<<<<< HEAD
+Master Edit: this lines changes user1Branch current (3rd line)
 Hofix Edit: Im inserting a line in the 3rd line + i changed to original 2nd line
+=======
+Master Edit: this lines changes user1Branch current state
+>>>>>>> isss53
